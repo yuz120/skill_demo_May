@@ -14,6 +14,7 @@ public class copyListTest {
     public void sizeTester(){
         setUp();
         assertEquals("expected", 4,listTest.returnSize()); //failed test
+    }
 
     
 }
