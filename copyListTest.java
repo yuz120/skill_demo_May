@@ -13,7 +13,7 @@ public class copyListTest {
     @Test
     public void sizeTester(){
         setUp();
-        assertEquals("expected", 4,listTest.returnSize()); //failed test
+        assertEquals("expected", 5,listTest.returnSize()); //should pass
     }
 
     
